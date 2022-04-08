@@ -202,7 +202,7 @@ div{
 
 /*About end*/
 /*Media Query*/
-@media(min-width: 500px){
+@media(min-width: 850px){
   body{
     margin: 0;
   }
